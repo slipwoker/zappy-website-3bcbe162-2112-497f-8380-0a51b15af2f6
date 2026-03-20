@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות אביזרים לאופנועים המובילה בישראל! קסדות, מגנים וציוד בטיחות איכותי לכל רוכב. קנייה אביזרים לאופנוע אונליין בקלות ובמחירים הטובים ביותר. כנס עכשיו!
+
+### אודות
+https://example.com/about
+טרייד בייק אביזרים נוסדה מתוך אהבה אמיתית לרכיבה בטוחה. למד מי אנחנו, מה מניע אותנו ולמה אלפי רוכבי אופנועים בישראל בוחרים בנו שוב ושוב. הצטרף למשפחה שלנו!
+
+### מדריך בטיחות
+https://example.com/safety-guide
+מדריך הבטיחות המקיף ביותר לרוכבי אופנועים בישראל! גלה איזה קסדות ומגנים לאופנוע חובה לרכוש, טיפים מקצועיים לרכיבה בטוחה וכיצד לבחור ציוד מגן איכותי. קרא עכשיו!
+
+### צור קשר
+https://example.com/contact
+צוות המומחים של טרייד בייק אביזרים זמין לענות על כל שאלה לגבי קנייה אביזרים לאופנוע אונליין, ייעוץ ציוד בטיחות ושירות אישי. פנה אלינו עכשיו ונשמח לעזור לך לרכב בבטחה!
+
+### Products
+https://example.com/products
+המוצרים שלנו - טרייד בייק אביזרים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - טרייד בייק אביזרים
+
+### Category
+https://example.com/category/:slug
+מוצרים - טרייד בייק אביזרים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
